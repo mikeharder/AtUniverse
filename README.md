@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/mikeharder0103/AtUniverse/_apis/build/status/mikeharder.AtUniverse)](https://dev.azure.com/mikeharder0103/AtUniverse/_build/latest?definitionId=1)
 
 
 # :rocket: Create your first pipeline
